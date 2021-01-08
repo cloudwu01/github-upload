@@ -1,0 +1,17 @@
+//
+//  File.swift
+//  cloudfirst
+//
+//  Created by mac-GH-ruwu on 2021/1/8.
+//
+
+import Foundation
+r
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {
+        Text("Hello, world!")
+            .padding()
+    }
+}
